@@ -6,4 +6,4 @@ This is my own University website out look ,Just done as mini project as i am bo
 #Feel free to download the source code and follow for new projects.<br>
 #dont foget to give a star if u like the project.<br>
 Demo video
-link:https://genuine-dolphin-820e5d.netlify.app/)https://genuine-dolphin-820e5d.netlify.app/</b>
+link:https://genuine-dolphin-820e5d.netlify.app/</b>
